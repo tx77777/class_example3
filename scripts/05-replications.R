@@ -1,9 +1,9 @@
 #### Preamble ####
 # Purpose: Replicated graphs from... [...UPDATE THIS...]
-# Author: Rohan Alexander [...UPDATE THIS...]
+# Author: qizhou.xie [...UPDATE THIS...]
 # Date: 11 February 2023 [...UPDATE THIS...]
-# Contact: rohan.alexander@utoronto.ca [...UPDATE THIS...]
-# License: MIT
+# Contact: qizhou.xie@mail.utoronto.ca [...UPDATE THIS...]
+# License: none
 # Pre-requisites: [...UPDATE THIS...]
 # Any other information needed? [...UPDATE THIS...]
 

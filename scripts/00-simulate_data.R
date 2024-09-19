@@ -1,9 +1,9 @@
 #### Preamble ####
 # Purpose: Simulates data
-# Author: Rohan Alexander
+# Author: qizhou xie
 # Date: 19 September 2024
-# Contact: rohan.alexander@utoronto.ca
-# License: MIT
+# Contact: qizhou.xie@mail.utoronto.ca
+# License: none
 # Pre-requisites: None
 # Any other information needed? None
 
@@ -32,9 +32,10 @@ data <-
       ),
       origin = "1970-01-01"
     ),
-    number_of_marriage = rpois(n = number_of_dates, lambda = 15)
+    number_of_marriage = rpois(n = number_of_dates, lambda = 10)
   )
 
 
 #### Write_csv
 write_csv(data, file = "data/raw_data/simulated.csv")
+

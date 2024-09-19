@@ -1,9 +1,9 @@
 #### Preamble ####
 # Purpose: Cleans the raw marriage data into an analysis dataset
-# Author: Rohan Alexander
+# Author: qizhou.xie
 # Date: 19 September 2024
-# Contact: rohan.alexander@utoronto.ca
-# License: MIT
+# Contact: qizhou.xie@mail.utoronto.ca
+# License: none
 # Pre-requisites: Need to have downloaded the data
 # Any other information needed? None.
 
@@ -24,3 +24,4 @@ cleaned_data <-
   
 #### Save data ####
 write_csv(cleaned_data, "data/analysis_data/analysis_data.csv")
+

@@ -1,8 +1,8 @@
 ---
-title: "My title"
+title: "marriage"
 subtitle: "My subtitle if needed"
 author: 
-  - Rohan Alexander
+  - qizhou xie
 thanks: "Code and data are available at: LINK."
 date: today
 date-format: long
